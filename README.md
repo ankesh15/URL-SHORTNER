@@ -7,6 +7,10 @@ Simple URL shortener built with React (Vite) + Node.js/Express + MongoDB (via Mo
 - Users submit a long URL and receive a short URL.
 - Visiting the short URL redirects to the original URL.
 
+- ### screeshot
+- <img width="1899" height="1056" alt="image" src="https://github.com/user-attachments/assets/77a4c4db-f400-4849-9e2b-78fb90ad8295" />
+
+
 ### Features
 
 - Input a long URL and get a short URL immediately.
