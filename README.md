@@ -101,11 +101,3 @@ Visit `http://localhost:3000`.
 - MongoDB connection error:
   - Provide a valid `MONGODB_URI` in `server/.env` (Atlas or local), or rely on the in-memory fallback.
 
-### Submission (per assignment)
-
-- Provide GitHub repository link.
-- Provide a short demo video showing the app in use.
-- (Preferred) Hosted live demo:
-  - Backend: Render/Railway/Fly.io; set `BASE_URL` accordingly.
-  - Database: MongoDB Atlas; set `MONGODB_URI`.
-  - Frontend: Netlify/Vercel; set `VITE_API_BASE_URL` to your deployed backend URL.
